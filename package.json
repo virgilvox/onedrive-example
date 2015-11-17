@@ -1,0 +1,15 @@
+{
+  "name": "onedrive-example",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "virgilvox <moheeb.zara@citrix.com> (http://app.octoblu.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "meshblu": "^1.30.1",
+    "node-onedrive-unofficial": "virgilvox/node-onedrive-unofficial"
+  }
+}
